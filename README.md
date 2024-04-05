@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJaehee)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJaehee)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJaehee)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - SSAFY 10기 교육중
