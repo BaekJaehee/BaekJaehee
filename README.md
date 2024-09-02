@@ -20,7 +20,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJaehee)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJaehee)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- SSAFY 10기 교육중
+- SSAFY 10기 수료(2023.7~2024.6)
 
 <!--
 **BaekJaehee/BaekJaehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
